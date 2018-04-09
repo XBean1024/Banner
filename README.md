@@ -28,6 +28,8 @@
             .setImageResource(imageIds)
             .setTitles(imageDescriptions).setAdapter();
 ### 开发日志 :
-###### 手动滑动和按住时停止轮播、手指抬起，开始轮播
-###### 事件绑定
-###### 优化
+    1、手动滑动和按住时停止轮播、手指抬起，开始轮播
+
+    2、事件绑定
+
+    3、优化
